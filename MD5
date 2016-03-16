@@ -1,0 +1,7 @@
+b06227c01a8bf71d7bf7b69526d0d435 *DESCRIPTION
+fe9e59ecde3a3a23aebee7ee47ac30c9 *LICENSE
+c09cec866e6b39d8729925fa83d4ab2c *NAMESPACE
+a03ff32f5e0e2a526547607fcd5a58c4 *R/OpenWeatherMap.R
+04aeb604d23073c1d8976272dc53769b *man/get_current_weather.Rd
+4b041c02482e2af5f1d7cd6371aeffcc *man/get_multiple_cities.Rd
+321ca2fcf9aa28450610d2891c14eb51 *man/get_weather_forecast.Rd
